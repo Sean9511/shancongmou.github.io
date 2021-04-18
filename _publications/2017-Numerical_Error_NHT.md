@@ -1,7 +1,6 @@
 ---
 title: "An example for the effect of round-off errors on numerical heat transfer"
 collection: publications
-permalink: /publication/2017-Numerical_Error_NHT
 date: 2017
 venue: 'Numerical Heat Transfer, Part B: Fundamentals'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10407790.2017.1338096'
